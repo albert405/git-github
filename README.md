@@ -1,2 +1,2 @@
 # git-github
-For devops tutorial
+This is for tutorial purpose
